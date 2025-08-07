@@ -1,0 +1,10 @@
+{
+  "Market Trends": "Digital transformation in education, remote access to resources, affordability focus. Increasing demand for peer-driven marketplaces across all sectors.",
+  "Investor Sentiment": "Investors support peer-to-peer platforms and ed-tech ideas, especially with scalable impact. Recent funding rounds indicate appetite for platforms with community-driven models.",
+  "Competitor Intel": "Chegg, Amazon textbook rentals, BookScouter, and local college exchange forums. Opportunity exists in creating a trust-based, verified peer network.",
+  "Funding Options": "Startup India Seed Fund, university incubators, angel investors focused on ed-tech. Consider international fellowships or accelerators like Y Combinator or Antler.",
+  "Legal Info": "Follow IT Act, setup Private Limited firm, include rental policy terms. Draft liability and data protection clauses to mitigate risks.",
+  "Govt Schemes": "Avail benefits under Startup India, MSME registration, and AICTE Incubation grants. Explore Niti Aayog’s Atal Innovation Mission and Digital India initiatives.",
+  "Monetization Models": "Freemium subscriptions, commission-based, in-app ads, and bundled student services like stationery or digital tools.",
+  "Technology Stack Suggestions": "Use scalable backend (e.g., FastAPI), integrate with payment gateways, use Firebase for auth and notifications, and leverage analytics tools for usage insights."
+}
